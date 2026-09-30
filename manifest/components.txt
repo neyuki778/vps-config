@@ -1,0 +1,13 @@
+# Captured 2026-09-30 on Ubuntu 24.04.
+# Format: component | installed version/commit | upstream
+zsh | 5.9-6ubuntu2 | Ubuntu package
+tmux | 3.4-1ubuntu0.1 | Ubuntu package
+screen | 4.9.1-1ubuntu1 | Ubuntu package
+fzf | 0.44.1-1ubuntu0.3 | Ubuntu package
+zoxide | 0.9.3-1 | Ubuntu package
+eza | 0.18.2-1 | Ubuntu package
+starship | 1.25.1 (8758daa) | https://github.com/starship/starship
+oh-my-zsh | 4d4cfc287e9d887b81242c0e431b5f49f9cec5c1 | https://github.com/ohmyzsh/ohmyzsh
+fzf-tab | 0983009f8666f11e91a2ee1f88cfdb748d14f656 | https://github.com/Aloxaf/fzf-tab
+zsh-autosuggestions | 85919cd1ffa7d2d5412f6d3fe437ebdbeeec4fc5 | https://github.com/zsh-users/zsh-autosuggestions
+zsh-syntax-highlighting | 1d85c692615a25fe2293bdd44b34c217d5d2bf04 | https://github.com/zsh-users/zsh-syntax-highlighting

@@ -1,0 +1,28 @@
+# Snapshot of relevant installed packages on Ubuntu 24.04 (2026-09-30).
+# Some packages are general CLI dependencies used by the shell configuration.
+zsh
+tmux
+screen
+fzf
+zoxide
+eza
+fd-find
+bat
+git
+git-delta
+fontconfig
+fonts-dejavu-core
+fonts-dejavu-extra
+fonts-dejavu-mono
+fonts-droid
+fonts-droid-fallback
+fonts-liberation
+fonts-liberation-sans-narrow
+fonts-liberation2
+fonts-lyx
+fonts-noto
+fonts-noto-core
+fonts-noto-mono
+fonts-noto-unhinted
+fonts-ubuntu-console
+fonts-urw-base35
