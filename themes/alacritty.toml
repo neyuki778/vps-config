@@ -1,0 +1,18 @@
+# Merge into the [colors] section of ~/.config/alacritty/alacritty.toml
+[colors.primary]
+background = "#1d2230"
+foreground = "#e3e5e5"
+
+[colors.cursor]
+cursor = "#a3aed2"
+text = "#1d2230"
+
+[colors.selection]
+background = "#394260"
+text = "#e3e5e5"
+
+[colors.normal]
+blue = "#769ff0"
+
+[colors.bright]
+blue = "#a3aed2"

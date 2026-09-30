@@ -16,6 +16,8 @@ making changes.
 - `dotfiles/bashrc` and `dotfiles/profile`: source machine's Bash defaults.
 - `manifest/ubuntu-24.04-packages.txt`: installed terminal and font packages.
 - `manifest/components.txt`: tool versions and pinned Oh My Zsh repositories.
+- `themes/`: shared color palette and Kitty, Alacritty, and WezTerm adapters,
+  plus the captured icon glyphs and font requirement.
 
 ## Source machine notes
 
@@ -31,7 +33,10 @@ making changes.
   fonts are listed in the package manifest.
 - Nerd Font was not detected among the installed fonts. Some prompt glyphs may
   therefore render differently on another machine unless its terminal font has
-  the required symbols.
+  the required symbols. See `themes/icons.md`.
+- The emulator adapters reuse colors found in the source Starship prompt. They
+  are portable theme definitions, not a captured copy of the original client
+  terminal theme, which was not visible from this SSH host.
 
 ## Ubuntu migration outline
 

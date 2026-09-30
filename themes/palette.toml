@@ -1,0 +1,11 @@
+# Shared palette extracted from dotfiles/starship.toml.
+# Background and UI roles reuse the prompt's existing dark segment colors.
+background = "#1d2230"
+foreground = "#e3e5e5"
+cursor = "#a3aed2"
+selection_background = "#394260"
+selection_foreground = "#e3e5e5"
+blue = "#769ff0"
+lavender = "#a3aed2"
+panel = "#212736"
+panel_muted = "#394260"
